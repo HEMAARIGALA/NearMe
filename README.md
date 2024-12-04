@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## Code
-'''
+```
 map.html U
 
 <html>
@@ -171,8 +171,7 @@ home.html U
     </p>
 </body>
 </html>
-'''
-
+```
 
 
 
